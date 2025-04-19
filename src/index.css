@@ -1,0 +1,12 @@
+* {
+  font-family: "Open Sans", sans-serif;
+}
+
+body {
+  justify-content: center;
+  background-color: #f0f6f6;
+  display: flex;
+  margin: 0;
+  padding: 0;
+  line-height: 1.8
+}

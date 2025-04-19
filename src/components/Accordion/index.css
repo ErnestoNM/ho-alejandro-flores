@@ -1,0 +1,25 @@
+#accordion-head {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 10PX;
+}
+
+#accordion-head button {
+    all: unset;
+    cursor: pointer;
+    border-radius: 3px;
+    &:hover {
+        background-color: #42bfdd;
+        color: #084b83;
+    }
+}
+
+#accordion-body div {
+    display: none;
+}
+
+#accordion-body div.open {
+    display: block;
+}

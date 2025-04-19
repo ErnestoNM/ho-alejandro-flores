@@ -1,0 +1,22 @@
+#services {
+    padding: 10px;
+    padding-bottom: 15px;
+    background-color: #084b83;
+    color: #bbe6e4;
+}
+
+#services h2 {
+    text-align: center;
+}
+
+#services ul {
+    list-style-type: None;
+    display: flex;
+    gap: 0;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 0 auto;
+    padding: 0;
+    text-align: center;
+    flex-direction: column;
+}

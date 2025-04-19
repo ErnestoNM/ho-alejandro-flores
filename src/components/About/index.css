@@ -1,0 +1,13 @@
+#about {
+    padding: 15px;
+    background-color: #f0f6f6;
+    color: #084b83;
+}
+
+#about h2 {
+    text-align: center;
+}
+
+#about p {
+    text-align: center;
+}

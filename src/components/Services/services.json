@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Atención ginecológica",
+        "description": "Enfermedades ginecológicas como trastornos de la menstruación, endocrinológicas, infecciones, incontinencia urinaria, virus del papiloma humano y más."
+    },
+    {
+        "name": "Control prenatal",
+        "description": "Revisión exhaustiva y atención especializada en detalles del embarazo, ultrasonido obstétrico y resolución de todo tipo de dudas para llevar a cabo un embarazo sano y a término."
+    },
+    {
+        "name": "Colposcopia",
+        "description": "Técnica imprescindible en la búsqueda intencionada del virus del papiloma humano así como lesiones de malignidad."
+    },
+    {
+        "name": "Ultrasonido",
+        "description": "Estudio de imagen que nos ayuda a diagnosticar enfermedades del útero y/o de los ovarios así como para seguimiento obstétrico en pacientes embarazadas."
+    },
+    {
+        "name": "Partos y cesáreas",
+        "description": "Resolución de los embarazos que pueden ser tanto vía vaginal como vía abdominal (cesárea) la cual se decide en conjunto con la debida asesoría para lograr el mejor resultado obstétrico."
+    },
+    {
+        "name": "Cirugía endoscópica ginecológica",
+        "description": "Todo tipo de cirugía que aqueja a las pacientes, sobresaliendo por ejemplo los miomas o como también quistes pudiéndose resolver de distintas formas ya sea vía abdominal (laparotomía) o por mínima invasión (laparoscópica)."
+    },
+    {
+        "name": "Menopausia",
+        "description": "Etapa fundamental de muchos cambios y dudas, donde el ginecólogo puede intervenir oportunamente para ofrecerle a las pacientes una excelente calidad de vida."
+    }
+]

@@ -1,0 +1,36 @@
+#app {
+    background-color: #f0f6f6;
+    justify-content: center;
+    width: 100vw;
+}
+
+#images-home-div {
+    background-color: #f0f6f6;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.img-home {
+    width: 25vw;
+}
+
+@media (max-width: 500px) {
+    #images-home-div {
+        justify-content: center;
+        margin: 0;
+        padding: 0;
+    }
+
+    #img-home-1{
+        width: 100vw;
+    }
+
+    #img-home-2{
+        display: none;
+    }
+
+    #img-home-3{
+        display: none;
+    }
+}
