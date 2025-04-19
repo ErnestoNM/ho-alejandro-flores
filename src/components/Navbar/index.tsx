@@ -9,7 +9,7 @@ const Navbar = () => {
 
   return (
     <nav id='navbar'>
-      <div className='navbar-logo-container'><img src='../../public/assets/logo.png' /></div>
+      <div className='navbar-logo-container'><img src='/assets/logo.png' /></div>
       <div className='navbar-links-container'>
         <div className='hamburger' onClick={() => {setIsOpen(!isOpen)}}>
           {isOpen ? <RxCross2 /> : <RxHamburgerMenu />}
